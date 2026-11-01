@@ -1,21 +1,23 @@
-# Demo Web Archive Starter
+# Web Archive Starter
 
-* Clone the project:
+A starter project focused on web archive, built with Astro.
 
+## Use this template
+
+```bash
+npx create-next-app -e https://github.com/colbyfayock/demo-web-archive-starter
 ```
-npx degit colbyfayock/my-web-archive my-web-archive
-```
 
-* Install dependencies:
+## Local setup
 
-```
+Install dependencies with npm and start the development server:
+
+```bash
 npm install
-```
-
-* Start the development server:
-
-```
 npm run dev
 ```
 
-And the project will be available at http://localhost:3000
+Use the local URL printed by the development server.
+
+Use `npm run build` to build the project.
+Use `npm run start` to run the production build.
