@@ -20,4 +20,4 @@ npm run dev
 Use the local URL printed by the development server.
 
 Use `npm run build` to build the project.
-Use `npm run start` to run the production build.
+Use `npm run build` to build the site, `npm run preview` to preview the production build, and `npm run start` to start Astro's development server.
