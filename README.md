@@ -1,23 +1,24 @@
 # Demo Web Archive Starter
 
-An Astro scaffold for a Space Jelly archive page with shared layout components and an empty grid where archive entries would appear.
+An Astro archive page starter with shared layout components and an empty grid for archive entries.
 
-## Use this template
+## Getting Started
+
+- Set up a new project
 
 ```bash
-npm create astro@latest -- --template colbyfayock/demo-web-archive-starter
+npx degit colbyfayock/demo-web-archive-starter my-web-archive
 ```
 
-## Local setup
-
-Install dependencies with npm, then start the development server:
+- Navigate to your new project
 
 ```bash
+cd my-web-archive
 npm install
+```
+
+- Start the development server
+
+```bash
 npm run dev
 ```
-
-Use the local URL printed by the development server.
-
-Use `npm run build` to create a production build.
-Use `npm run preview` to preview that build.
